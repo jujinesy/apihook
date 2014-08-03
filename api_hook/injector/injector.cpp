@@ -80,7 +80,7 @@ bool inject_thread(_In_ DWORD pid, _In_z_ const char* dll_path)
 * @brief	adjust privilege
 * @param	
 * @see		
-* @remarks	http://support.microsoft.com/kb/131065/EN-US/
+* @remarks http://support.microsoft.com/kb/131065/EN-US/
 * @code		
 * @endcode	
 * @return	
